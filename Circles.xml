@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Circles>
+	<Circle Name = "FootballCirle"
+		Faculty = "Bio"
+		Schedule = "16:00 weekdays"
+		Monitor = "Vasya"
+		Subject = "PE">
+	</Circle>
+	<Circle Name = "OOP"
+		Faculty = "FCSC"
+		Schedule = "15:00 monday"
+		Monitor = "Maxim"
+		Subject = "Programming">
+	</Circle>
+	<Circle Name = "Reading"
+		Faculty = "FIT"
+		Schedule = "20:00 friday"
+		Monitor = "Julia"
+		Subject = "ULanguage">
+	</Circle>
+	<Circle Name = "Yoga"
+		Faculty = "FCSC"
+		Schedule = "16:00 weekdays"
+		Monitor = "Petya"
+		Subject = "PE">
+	</Circle>
+	<Circle Name = "Mathematical Analysis"
+		Faculty = "FCSC"
+		Schedule = "20:00 monday"
+		Monitor = "Oleksandr"
+		Subject = "MAth">
+	</Circle>
+</Circles>
